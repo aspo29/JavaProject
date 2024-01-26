@@ -9,7 +9,7 @@ This Java project implements an Online Shopping Management System with a client-
 
    ```bash
    git clone https://github.com/aspo29/JavaProject.git
-   cd your-repository
+   cd JavaProject
    ```
 
 2. **Compile the project:**
@@ -86,4 +86,3 @@ The `ClientSocket` class handles communication with the server. It establishes a
 ## License
 
 This project is licensed under the MIT License. © Aashutosh Poudel, 2024.
-```
