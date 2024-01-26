@@ -1,5 +1,3 @@
-Certainly! Below is the entire README content in Markdown format:
-
 ```markdown
 # Online Shopping Management System
 
