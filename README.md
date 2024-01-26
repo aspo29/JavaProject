@@ -1,4 +1,4 @@
-```markdown
+
 # Online Shopping Management System
 
 This Java project implements an Online Shopping Management System with a client-server architecture. Users can add products to their cart, view the cart, and submit orders. The system uses JavaFX for the client-side GUI and MySQL for the server-side database.
